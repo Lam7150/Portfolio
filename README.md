@@ -1,9 +1,6 @@
 # Portfolio
 This repository contains relevant memorable projects that I've completed for demonstration of my coding design and ability! While these aren't fully comprehensive in representation of my experience, hopefully they can shine some light on the mastery of my programming practice.
 
-    *Note: Some of these are under non-disclosure agreements, thus I've put it in a private repository to reserve it's integrity.
-
-
 You can find each project I've done in a separate folder in this repository:
 1. Lemon (2017): A Google Apps Script I created for a charity fundraiser at my high school to automate the organization of 400+ students' information for Emergency Services
 2. global-giving (2018 - present): A bag-of-words classifier created for Global-Giving (A non-profit organization made to connect donors to grassroot projects) to classify non-profits based off their websites to facilitate Global Giving's vetting process.
