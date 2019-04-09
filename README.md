@@ -3,6 +3,7 @@ This repository contains relevant memorable projects that I've completed for dem
 
     *Note: Some of these are under non-disclosure agreements, thus I've put it in a private repository to reserve it's integrity.
 
+
 You can find each project I've done in a separate folder in this repository:
 1. Lemon (2017): A Google Apps Script I created for a charity fundraiser at my high school to automate the organization of 400+ students' information for Emergency Services
 2. global-giving (2018 - present): A bag-of-words classifier created for Global-Giving (A non-profit organization made to connect donors to grassroot projects) to classify non-profits based off their websites to facilitate Global Giving's vetting process.
@@ -10,15 +11,15 @@ You can find each project I've done in a separate folder in this repository:
 
 Relevant Courses Taken:
 2016-2017:
-Harvard CS50 (edX)
-W3C's HTML/CSS Course (edX)
-Programming in C
+* Harvard CS50 (edX)
+* W3C's HTML/CSS Course (edX)
+* Programming in C
 
 2017-2018:
-The Complete Cyber Security Course (Udemy)
-AP Computer Science
+* The Complete Cyber Security Course (Udemy)
+* AP Computer Science
 
 2018-2019:
-CS125: Introduction to Computer Science
-CS126: Software Design Studio
-CS173: Discrete Structures
+* CS125: Introduction to Computer Science
+* CS126: Software Design Studio
+* CS173: Discrete Structures
