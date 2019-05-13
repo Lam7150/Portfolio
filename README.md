@@ -20,3 +20,8 @@ Relevant Courses Taken:
 * CS125: Introduction to Computer Science
 * CS126: Software Design Studio
 * CS173: Discrete Structures
+
+2019-2020:
+* CS225: Data Structures
+* CS233: Computer Architecture
+* CS361: Statistics and Probability
