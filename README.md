@@ -1,5 +1,5 @@
 # Portfolio
-This repository contains relevant memorable projects that I've completed for demonstration of my coding design and ability! While these aren't fully comprehensive in representation of my experience, hopefully they can shine some light on the mastery of my programming practice.
+This repository contains relevant memorable projects that I've completed to demonstrate my coding design and ability! While these aren't fully comprehensive in representation of my experience, hopefully they can shine some light on my mastery of Computer Science.
 
 You can find each project I've done in a separate folder in this repository:
 1. Lemon (2017): A Google Apps Script I created for a charity fundraiser at my high school to automate the organization of 400+ students' information for Emergency Services
