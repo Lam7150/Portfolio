@@ -22,6 +22,7 @@ Relevant Courses Taken:
 * CS173: Discrete Structures
 
 2019-2020:
+* CS210: Ethics
 * CS225: Data Structures
 * CS233: Computer Architecture
 * CS361: Statistics and Probability
